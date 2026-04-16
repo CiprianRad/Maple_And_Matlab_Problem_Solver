@@ -1,0 +1,5 @@
+{
+  "name": "MathScript Architect",
+  "description": "Generate simple Maple (.mw), MATLAB (.m), and LaTeX (.tex) documentation for mathematical problems using AI.",
+  "requestFramePermissions": []
+}

@@ -12,6 +12,10 @@ The project is structured as a modern web application:
 * **`package.json`** & **`vite.config.ts`** - Configuration files for dependencies and the Vite build tool.
 * **`types.ts`** - TypeScript type definitions used throughout the app.
 
+# Run and deploy
+
+You can access and run the app at this link: https://aistudio.google.com/apps/drive/1Nh3VqMl4z31GdyVAssxEoY67VIxt0qMw
+
 ## 🛠️ Features Demonstrated
 Side-by-side code solutions for problems in Maple and MATLAB.
 
